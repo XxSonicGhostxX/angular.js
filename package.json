@@ -21,7 +21,7 @@
   "devDependencies": {
     "angular-benchpress": "0.x.x",
     "benchmark": "1.x.x",
-    "bootstrap": "3.1.1",
+    "bootstrap": "3.4.1",
     "browserstacktunnel-wrapper": "2.0.4",
     "canonical-path": "0.0.2",
     "changez": "^2.1.1",
@@ -92,7 +92,7 @@
     "sauce-connect": "https://saucelabs.com/downloads/sc-4.6.2-linux.tar.gz",
     "sax": "^1.1.1",
     "selenium-webdriver": "^4.0.0-alpha.1",
-    "semver": "^5.4.1",
+    "semver": "^5.7.2",
     "serve-favicon": "^2.3.0",
     "serve-index": "^1.8.0",
     "serve-static": "^1.11.1",
